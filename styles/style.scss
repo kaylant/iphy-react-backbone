@@ -127,3 +127,17 @@ body {
 /**
  * App code
  */
+.container{
+    margin: auto;
+ .pageContainer {
+    margin: auto;
+    text-align: center;
+    width: 60%;
+    .gifScroll {
+        width: 100%;
+        .gif {
+            display: block;
+        }
+    }
+ }
+}
