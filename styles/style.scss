@@ -130,9 +130,12 @@ body {
 .container{
     margin: auto;
  .pageContainer {
-    margin: auto;
+    margin: 20px auto;
     text-align: center;
     width: 60%;
+    input {
+        margin: 20px;
+    }
     .gifScroll {
         width: 100%;
         .gif {
